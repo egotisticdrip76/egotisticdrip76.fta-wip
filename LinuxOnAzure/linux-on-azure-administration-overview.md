@@ -1,4 +1,4 @@
-# POC Scenario 2: Linux On Azure 101
+# POC Scenario 2: Linux On Azure Administration Overview
 
 ## Table of Contents
 * [Abstract](#abstract)
