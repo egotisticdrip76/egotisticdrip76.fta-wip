@@ -66,16 +66,17 @@ ssh azureadmin@<public ip address>
 * Connect to your Azure subscription:
 [Log in with Azure CLI 2.0](https://docs.microsoft.com/en-us/cli/azure/authenticate-azure-cli?view=azure-cli-latest)
 
-# Monitoring Linux with Boot Diagnostics!
-* Enable Boot Diagnostics either by using the Azure CLI or the Portal: [Enable Boot Diagnostics using CLI](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-monitoring#enable-boot-diagnostics) or [Enable Boot Diagnostics using the Portal](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/boot-diagnostics)
+# Monitoring Linux with Boot Diagnostics
+* Enable Boot Diagnostics either by using the Azure CLI or the Portal: 
+[Enable Boot Diagnostics using CLI](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-monitoring#enable-boot-diagnostics) or [Enable Boot Diagnostics using the Portal](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/boot-diagnostics)
 
-* View Boot Diagnostics by using the CLI
+* View Boot Diagnostics by using the CLI: 
 [Enable Boot Diagnostics using CLI](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-monitoring#enable-boot-diagnostics)
 
 * Navigate in the Azure Portal, go to the Virtual Machine, select the "Boot Diagnostics" oprtion and view the same information.
 
 # Monitoring Linux with host metrics
-* View the host metrics in the Azure Portal
+* View the host metrics in the Azure Portal:
 [View Host Metrics](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-monitoring#view-host-metrics)
 
 # Update Management
