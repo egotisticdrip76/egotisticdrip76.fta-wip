@@ -51,7 +51,7 @@ More info at [Monitor Azure web app performance](https://docs.microsoft.com/en-u
 
 * From the Azure portal **open** the **ContosoExpense Web app** (under App Services or under the Resource Group where the application was deployed).
 
-* Follow steps from [Run time instrumentation with Application Insights](https://docs.microsoft.com/en-us/azure/application-insights/app-insights-azure-web-apps#run-time-instrumentation-with-application-insights)
+* Follow steps 1 to 3 from [Run time instrumentation with Application Insights](https://docs.microsoft.com/en-us/azure/application-insights/app-insights-azure-web-apps#run-time-instrumentation-with-application-insights)
 
 ### (Option 2) Build time 
 
@@ -60,6 +60,9 @@ TODO
 
 
 ## Health Check
+
+
+
 ## Application Map, Failure Diagnostics & Snapshot Debugging
 ## Performance Monitoring & Profiling
 ## Visual Studio Integration
