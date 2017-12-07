@@ -70,7 +70,7 @@ ssh azureadmin@<public ip address>
 * Enable Boot Diagnostics either by using the Azure CLI or the Portal: [Enable Boot Diagnostics using CLI](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-monitoring#enable-boot-diagnostics) or [Enable Boot Diagnostics using the Portal](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/boot-diagnostics)
 
 * View Boot Diagnostics by using the CLI
-[Enable Boot Diagnostics using CLI] (https://docs.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-monitoring#enable-boot-diagnostics)
+[Enable Boot Diagnostics using CLI](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-monitoring#enable-boot-diagnostics)
 
 * Navigate in the Azure Portal, go to the Virtual Machine, select the "Boot Diagnostics" oprtion and view the same information.
 
