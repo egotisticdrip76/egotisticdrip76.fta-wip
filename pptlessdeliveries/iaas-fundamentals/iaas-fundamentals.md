@@ -1,13 +1,16 @@
 > DO NOT USE. WORK IN PROGRESS.
 
 # IaaS Fundamentals
-Introduction to Azure Infrastructure Services
 
 ## Service description
+
 IaaS Fundamentals covers the core IaaS services (ARM, storage, compute and networking). The session includes the technical overview of each service, walk throughs to test individual scenarios and a final POC.
 
+
 ## Agenda
+
 * Azure Overview
+* Azure Services
 * Core IaaS Services
 * Resource Manager
 * Storage 
@@ -16,12 +19,31 @@ IaaS Fundamentals covers the core IaaS services (ARM, storage, compute and netwo
 * Architectural design best practices & guidance
 * POC
 
+
 ## Prerequisites
 * A Microsoft Azure subscription (with Contributor access)
 * Internet connection (RDP port open to external IP addresses)
 * 1 person per session with the ability to share screen over skype meeting
 
+
+## Prerequisites
+
+* A Microsoft Azure subscription (with Contributor access)
+* Internet connection (RDP port open to external IP addresses)
+* 1 person per session with the ability to share screen over skype meeting
+
+
+## Sessions
+
+* Sessions should be scheduled based on customer preferences.
+* Keep in mind that with longer sessions it's easier to lost attendees attention.
+* Remember to make short breaks if needed.
+* Suggestion: start by scheduling 4 sessions of 2 hours, and adjust if needed.
+
+
 ## Delivery guide
+
+> **Note:** when doing demos use [Azure Portal - public version](https://portal.azure.com/?feature.customportal=false)
 
 |                     | Source format | Estimated time | Deliver from  | Readiness Resources |
 | -------------       | ------------- | -------------  | ------------- | -------------       |
@@ -36,6 +58,10 @@ IaaS Fundamentals covers the core IaaS services (ARM, storage, compute and netwo
 | POC Scenario 1: Deploying Website on Azure IaaS VMs - HTTP | GitHub | 3 h | [https://github.com/Azure/fta-azurefundamentals/blob/master/iaas-fundamentals/articles/website-on-iaas-http.md](https://github.com/Azure/fta-azurefundamentals/blob/master/iaas-fundamentals/articles/website-on-iaas-http.md) | | 
 
 
+## Output to customer
+
+* Slides: when requested, a PDF version of the slides can be shared with customer.
+* POCs and Reference Resources: [IaaS Fundamentals GitHub page](https://github.com/Azure/fta-azurefundamentals/tree/master/iaas-fundamentals)
 
 
 
@@ -45,3 +71,8 @@ IaaS Fundamentals covers the core IaaS services (ARM, storage, compute and netwo
 
 Explore the following topics:
 * []()
+
+
+
+
+
