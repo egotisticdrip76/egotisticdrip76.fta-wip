@@ -2,9 +2,6 @@
 
 # IaaS Fundamentals
 
-Introduction to Azure Infrastructure Services.
-
-
 ## Service description
 
 IaaS Fundamentals covers the core IaaS services (ARM, storage, compute and networking). The session includes the technical overview of each service, walk throughs to test individual scenarios and a final POC.
