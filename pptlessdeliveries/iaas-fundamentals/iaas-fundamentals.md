@@ -26,13 +26,6 @@ IaaS Fundamentals covers the core IaaS services (ARM, storage, compute and netwo
 * 1 person per session with the ability to share screen over skype meeting
 
 
-## Prerequisites
-
-* A Microsoft Azure subscription (with Contributor access)
-* Internet connection (RDP port open to external IP addresses)
-* 1 person per session with the ability to share screen over skype meeting
-
-
 ## Sessions
 
 * Sessions should be scheduled based on customer preferences.
