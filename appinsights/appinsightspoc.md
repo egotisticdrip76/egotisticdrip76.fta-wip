@@ -18,7 +18,7 @@ To complete this POC:
     * Understand the difference between Traditional Monitoring & Continuous Monitoring
     * Understand the differences in monitoring requirements and how Application Insights with Azure Monitoring & Analytics helps address all these visibility concerns
     * Understand the diverse ecosystem around Ingestion, Exploration, Export & Correlation
-* Deploy the Contoso Expenses application (ADD link to both options - dpeloy everything from scratch and deploy with arm template)
+* Deploy the Contoso Expenses application (**[deploy everything from scratch](https://github.com/Azure/fta-internalbusinessapps/blob/master/appmodernization/app-service/articles/app-service.md)** or **[deploy with arm template](https://github.com/Azure/fta-internalbusinessapps/blob/master/appmodernization/app-service/articles/app-service-with-arm-template.md)**)
 * A Microsoft Azure subscription (with Contributor access)
 * 
 
@@ -55,14 +55,12 @@ More info at [Monitor Azure web app performance](https://docs.microsoft.com/en-u
 
 ### (Option 2) Build time 
 
-TODO
+* Open Contoso Expenses solution in Visual Studio.
 
+* Follow steps 1 to 3 from [Build the app with Application Insights](https://docs.microsoft.com/en-us/azure/application-insights/app-insights-azure-web-apps#build-the-app-with-application-insights)
 
 
 ## Health Check
-
-
-
 ## Application Map, Failure Diagnostics & Snapshot Debugging
 ## Performance Monitoring & Profiling
 ## Visual Studio Integration
