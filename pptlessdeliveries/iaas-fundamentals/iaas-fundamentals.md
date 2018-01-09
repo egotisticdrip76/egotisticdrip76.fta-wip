@@ -10,7 +10,6 @@ IaaS Fundamentals covers the core IaaS services (ARM, storage, compute and netwo
 ## Agenda
 
 * Azure Overview
-* Azure Services
 * Core IaaS Services
 * Resource Manager
 * Storage 
@@ -36,7 +35,20 @@ IaaS Fundamentals covers the core IaaS services (ARM, storage, compute and netwo
 
 ## Delivery guide
 
-> **Note:** when doing demos use [Azure Portal - public version](https://portal.azure.com/?feature.customportal=false)
+### Prior to the delivery
+
+* Review guideline below and review/study as the resources/public documentation that should be presented to the customer
+
+### During the delivery
+
+* Ask customer to share their screen and follow the guidelines on the articles below
+    * **SHOW** indicates a specific page to show to the customer.
+    * **NAVIGATION** indicates the path to get to the specific page.
+    * **SPEAKER NOTES** references some topics to talk about when showing the specified pages/resources. 
+    * **ADDITIONAL RESOURCES**
+    * **QUIZ**
+* For demos done by engineers always use [Azure Portal - public version](https://portal.azure.com/?feature.customportal=false)
+
 
 |                     | Source format | Estimated time | Deliver from  | Readiness Resources |
 | -------------       | ------------- | -------------  | ------------- | -------------       |
@@ -56,14 +68,6 @@ IaaS Fundamentals covers the core IaaS services (ARM, storage, compute and netwo
 * Slides: when requested, a PDF version of the slides can be shared with customer.
 * POCs and Reference Resources: [IaaS Fundamentals GitHub page](https://github.com/Azure/fta-azurefundamentals/tree/master/iaas-fundamentals)
 
-
-
-> **SHOW** []() 
-
-> *Navigation*: https://azure.com > 
-
-Explore the following topics:
-* []()
 
 
 
