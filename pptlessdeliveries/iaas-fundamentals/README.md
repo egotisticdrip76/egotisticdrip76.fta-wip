@@ -1,9 +1,9 @@
 
 # IaaS Fundamentals - Slideless delivery
 
-> Do NOT USE. WORK IN PROGRESS.
+> DO NOT USE WITH CUSTOMERS. WORK IN PROGRESS.
 
-> Start at [Delivery Guide](articles/iaasfundamentals.md)
+> To review start at [Delivery Guide](articles/iaasfundamentals.md)
 
 > Any questions or feedback contact laleite@microsoft.com
 
