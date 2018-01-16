@@ -106,7 +106,7 @@ Explore the following topics:
 
 * Follow guidelines to create a VM
 * On the **Basics** tab choose **HDD** for VM disk type
-* On the **Settings** tab show options between creating VMs with **Managed disks** and tradicional storage account
+* On the **Settings** tab show options between creating VMs with **Managed disks** and traditional storage account
 
 
 ## Walkthrough: Convert Managed Disk from standard to premium, and vice versa
