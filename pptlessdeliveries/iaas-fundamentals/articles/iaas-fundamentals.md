@@ -57,8 +57,8 @@ IaaS Fundamentals covers the core IaaS services (ARM, storage, compute and netwo
 | Core IaaS Services  | GitHub        | 15 min         | [Core IaaS Services](core-iaas-services.md) | | 
 | Resource Manager    | GitHub        | 1 h            | [Resource Manager](resource-manager.md) | | 
 | Storage             | GitHub        | 1 h            | [Storage](storage.md) | | 
-| Compute             | GitHub        | 1 h            | [Compute](compute.md) | | 
 | Networking          | GitHub        | 1 h            | [Networking](networking.md) | Office Mix recording: https://mix.office.com/watch/9f3x03k6p2lb | 
+| Compute             | GitHub        | 1 h            | [Compute](compute.md) | | 
 | Architectural design best practices & guidance | PowerPoint | 1 h | [Delivery Ready IP\Design Principles\Design Principles for building applications on Azure IaaS.pptx](https://microsoft.sharepoint.com/:f:/t/fasttrackforazure/CE/EmDmB0mWOkZIktib4_HjiwwB0lTYImVj7AKKG6aMj3hfTA?e=b1c7632ca8bf46649d9753c57534a131) | | 
 | POC Scenario 1: Deploying Website on Azure IaaS VMs - HTTP | GitHub | 3 h | [https://github.com/Azure/fta-azurefundamentals/blob/master/iaas-fundamentals/articles/website-on-iaas-http.md](https://github.com/Azure/fta-azurefundamentals/blob/master/iaas-fundamentals/articles/website-on-iaas-http.md) | | 
 
