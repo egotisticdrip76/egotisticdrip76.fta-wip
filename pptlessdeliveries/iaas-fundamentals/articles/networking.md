@@ -1,4 +1,3 @@
-###### Go back to [IaaS Fundamentals](iaas-fundamentals.md#delivery-guide)
 
 # Networking
 
@@ -119,4 +118,3 @@ https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-udr-over
 Native high availability
 
 
-###### Go back to [IaaS Fundamentals](iaas-fundamentals.md#delivery-guide)
