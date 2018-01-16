@@ -1,5 +1,3 @@
-###### Go back to [IaaS Fundamentals](iaas-fundamentals.md#delivery-guide)
-
 
 # Azure Overview
 
@@ -136,7 +134,3 @@ Explore the following topics:
 * Visit the [Microsoft Trust Center](https://www.microsoft.com/en-us/trustcenter)
 * Go to the [Azure Portal](https://portal.azure.com) and start exploring 
 
-
-
-
-###### Go back to [IaaS Fundamentals](iaas-fundamentals.md#delivery-guide)
