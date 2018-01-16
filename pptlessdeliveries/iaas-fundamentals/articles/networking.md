@@ -5,7 +5,9 @@
 
 > **SHOW** [Azure networking](https://docs.microsoft.com/en-us/azure/networking/networking-overview)
 
-> *Navigation*: https://azure.com > Documentation > Products > Networking > [Networking Overview](https://docs.microsoft.com/en-us/azure/networking/networking-overview)
+> **NAVIGATION** https://azure.com > Documentation > Products > Networking > [Networking Overview](https://docs.microsoft.com/en-us/azure/networking/networking-overview)
+
+> **SPEAKER NOTES**
 
 Explore the following topics:
 * [Azure networking concepts](https://docs.microsoft.com/en-us/azure/networking/networking-overview)
@@ -15,7 +17,9 @@ Explore the following topics:
 
 > **SHOW** [Azure Virtual Network](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview)
 
-> *Navigation*: https://azure.com > Documentation > Products > Networking > Networking Overview > Concepts > [Virtual Network](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview)
+> **NAVIGATION** https://azure.com > Documentation > Products > Networking > Networking Overview > Concepts > [Virtual Network](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview)
+
+> **SPEAKER NOTES**
 
 Explore the following topics:
 * [What is a Virtual Network](https://docs.microsoft.com/en-us/azure/networking/networking-overview)
@@ -34,6 +38,7 @@ Explore the following topics:
   * Network traffic routing 
 
 
+
 ## Walkthrough: Deploy a Virtual Network
 
 > **GUIDE** [Create a virtual network with multiple subnets](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-create-vnet-arm-pportal#portal)
@@ -45,7 +50,9 @@ Explore the following topics:
 
 > **SHOW** [Virtual networks and virtual machines in Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/network-overview)
 
-> *Navigation*: https://azure.com > Documentation > Products > Compute > Windows Virtual Machines > Concepts > [Networking](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/network-overview)
+> **NAVIGATION** https://azure.com > Documentation > Products > Compute > Windows Virtual Machines > Concepts > [Networking](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/network-overview)
+
+> **SPEAKER NOTES**
 
 Explore the following topics:
 * [Network interface (NIC)](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/network-overview#network-interfaces)
@@ -66,7 +73,9 @@ Explore the following topics:
         * DNS name resolution, where a change in IP address would require updating A records.
         * Your Azure resources communicate with other apps or services that use an IP address-based security model.
 
-More resources:
+
+> **ADDITIONAL RESOURCES**
+
 * [Manage Network interfaces (NICs)](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-network-interface)
 * [IP address types and allocation methods in Azure](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-ip-addresses-overview-arm)
 

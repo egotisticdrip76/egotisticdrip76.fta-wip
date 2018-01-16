@@ -3,7 +3,9 @@
 
 > **SHOW** [Azure website](https://azure.microsoft.com/en-us/)
 
-> *Navigation*: https://azure.com (if needed change language at the bottom of the page)
+> **NAVIGATION** https://azure.com (if needed change language at the bottom of the page)
+
+> **SPEAKER NOTES**
 
 Azure is a very broad platform wit both IaaS and PaaS offerings.
 
@@ -24,7 +26,9 @@ Core IaaS Services:
 
 > **SHOW** [Run a Windows VM on Azure](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/virtual-machines-windows/single-vm) 
 
-> *Navigation*: https://azure.com > Documentation > Architecture > Reference Architectures > Windows VM workloads > Single VM
+> **NAVIGATION** https://azure.com > Documentation > Architecture > Reference Architectures > Windows VM workloads > Single VM
+
+> **SPEAKER NOTES**
 
 We will review concepts that revolve around a whole Single VM architecture on Azure.
 Provisioning a VM in Azure involves more moving parts than just the VM itself. There are compute, networking, and storage elements.
@@ -32,7 +36,7 @@ Once you understand the concepts, then you can replicate these concepts per your
 
 Explore the [Architecture](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/virtual-machines-windows/single-vm#architecture) section, explaining the elements in the architecture. We'll deep dive in this elements through the next modules.
 
-More resources:
+> **ADDITIONAL RESOURCES**
 
 * [Azure Reference Architectures for IaaS VM running Windows VM workloads](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/virtual-machines-windows/) 
 

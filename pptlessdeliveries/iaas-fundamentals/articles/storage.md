@@ -5,7 +5,9 @@
 
 > **SHOW** [Azure Storage](https://docs.microsoft.com/en-us/azure/storage/)
 
-> *Navigation*: https://azure.com > Products > Products > [Storage](https://docs.microsoft.com/en-us/azure/storage/)
+> **NAVIGATION** https://azure.com > Products > Products > [Storage](https://docs.microsoft.com/en-us/azure/storage/)
+
+> **SPEAKER NOTES**
 
 Explore the following topics:
 * What is Azure Storage? 
@@ -14,7 +16,7 @@ Explore the following topics:
 * Briefly explain what are Files, Disks, Blobs, Queues, Tables and Archive.
 
 
-More resources:
+> **ADDITIONAL RESOURCES**
 
 * [Introduction to Microsoft Azure Storage](https://docs.microsoft.com/en-us/azure/storage/common/storage-introduction)
 * [Introducing the Azure Storage services](https://docs.microsoft.com/en-us/azure/storage/common/storage-introduction#introducing-the-azure-storage-services)
@@ -24,7 +26,9 @@ More resources:
 
 > **SHOW** [Types of storage accounts](https://docs.microsoft.com/en-us/azure/storage/common/storage-introduction#types-of-storage-accounts)
 
-> *Navigation*: https://azure.com > Documentation > Products > Storage > Storage > Overview > [Types of storage accounts](https://docs.microsoft.com/en-us/azure/storage/common/storage-introduction#types-of-storage-accounts)
+> **NAVIGATION** https://azure.com > Documentation > Products > Storage > Storage > Overview > [Types of storage accounts](https://docs.microsoft.com/en-us/azure/storage/common/storage-introduction#types-of-storage-accounts)
+
+> **SPEAKER NOTES**
 
 Explore the following topics:
 * Various kinds of storage accounts:
@@ -37,7 +41,9 @@ Explore the following topics:
 
 > **SHOW** [Deciding when to use Azure Blobs, Azure Files, or Azure Disks](https://docs.microsoft.com/en-us/azure/storage/common/storage-decide-blobs-files-disks)
 
-> *Navigation*: https://azure.com > Documentation > Products > Storage > Storage > Overview > [Choose Blobs, Files or Disks](https://docs.microsoft.com/en-us/azure/storage/common/storage-decide-blobs-files-disks)
+> **NAVIGATION** https://azure.com > Documentation > Products > Storage > Storage > Overview > [Choose Blobs, Files or Disks](https://docs.microsoft.com/en-us/azure/storage/common/storage-decide-blobs-files-disks)
+
+> **SPEAKER NOTES**
 
 Explore the following topics:
 * Comparison between scenarios for Files, Blobs, and Disks.
@@ -61,7 +67,9 @@ Explore the following topics:
 
 > **SHOW** [About disks storage for Azure Windows VMs](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/about-disks-and-vhds)
 
-> *Navigation*: https://azure.com > Documentation > Products > Storage > Storage > Disks > [Disk storage](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/about-disks-and-vhds)
+> **NAVIGATION** https://azure.com > Documentation > Products > Storage > Storage > Disks > [Disk storage](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/about-disks-and-vhds)
+
+> **SPEAKER NOTES**
 
 Explore the following topics:
 * [Disks used by VMs](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/about-disks-and-vhds#disks-used-by-vms)
@@ -74,11 +82,14 @@ Explore the following topics:
   * Types of disks: unmanaged or managed - focus on Managed Disks
 
 
+
 ### Managed Disks
 
 > **SHOW** [Azure Managed Disks Overview](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/managed-disks-overview)
 
-> *Navigation*: https://azure.com > Documentation > Products > Storage > Storage > [Disks](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/managed-disks-overview)
+> **NAVIGATION** https://azure.com > Documentation > Products > Storage > Storage > [Disks](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/managed-disks-overview)
+
+> **SPEAKER NOTES**
 
 Explore the following topics:
 * [Benefits of managed disks](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/managed-disks-overview#benefits-of-managed-disks)
@@ -116,8 +127,9 @@ Explore the following topics:
 
 > **SHOW** [Introduction to Azure Files](https://docs.microsoft.com/en-us/azure/storage/files/storage-files-introduction)
 
-> *Navigation*: https://azure.com > Documentation > Products > Storage > Storage > Files > [Introduction](https://docs.microsoft.com/en-us/azure/storage/files/storage-files-introduction)
+> **NAVIGATION** https://azure.com > Documentation > Products > Storage > Storage > Files > [Introduction](https://docs.microsoft.com/en-us/azure/storage/files/storage-files-introduction)
 
+> **SPEAKER NOTES**
 
 Explore the following topics:
 * [What are Azure Files](https://docs.microsoft.com/en-us/azure/storage/files/storage-files-introduction)
@@ -125,10 +137,12 @@ Explore the following topics:
 * [Key benefits](https://docs.microsoft.com/en-us/azure/storage/files/storage-files-introduction#key-benefits)
 
 
+
 > **SHOW** [Azure File Sync scenario](https://github.com/laraaleite/laleitetestrep/blob/master/iaas-fundamentals-cx/storage.md#files)
 
 
-More resources:
+> **ADDITIONAL RESOURCES**
+
 * [FAQ](https://docs.microsoft.com/en-us/azure/storage/files/storage-files-faq)
 
 
