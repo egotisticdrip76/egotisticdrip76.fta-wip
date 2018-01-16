@@ -1,4 +1,3 @@
-###### Go back to [IaaS Fundamentals](iaas-fundamentals.md#delivery-guide)
 
 # Azure Storage
 
@@ -144,6 +143,3 @@ More resources:
 
 > **GUIDE** [Connect to file share](https://docs.microsoft.com/en-us/azure/storage/files/storage-how-to-use-files-portal#connect-to-file-share)
 
-
-
-###### Go back to [IaaS Fundamentals](iaas-fundamentals.md#delivery-guide)
