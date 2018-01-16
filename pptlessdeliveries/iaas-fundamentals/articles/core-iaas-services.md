@@ -1,4 +1,3 @@
-###### Go back to [IaaS Fundamentals](iaas-fundamentals.md#delivery-guide)
 
 # Core IaaS Services
 
@@ -39,5 +38,3 @@ More resources:
 
 * [Azure Reference Architectures for IaaS VM running Linux VM workloads](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/virtual-machines-linux/index) 
 
-
-###### Go back to [IaaS Fundamentals](iaas-fundamentals.md#delivery-guide)
