@@ -5,7 +5,9 @@
 
 > **SHOW** [Azure Resource Manager overview](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-overview) 
 
-> *Navigation*: https://azure.com > Documentation > Products > Monitoring + Management > [Azure Resource Manager](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-overview) 
+> **NAVIGATION** https://azure.com > Documentation > Products > Monitoring + Management > [Azure Resource Manager](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-overview) 
+
+> **SPEAKER NOTES**
 
 Explore the following topics:
 * What is Azure Resource Manager (ARM)?
@@ -18,12 +20,16 @@ Explore the following topics:
 
 > **SHOW** [Resource Groups](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-overview#resource-groups) 
 
-> *Navigation*: https://azure.com > Documentation > Products > Monitoring + Management > Azure Resource Manager > [Resource Groups](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-overview#resource-groups) 
+> **NAVIGATION** https://azure.com > Documentation > Products > Monitoring + Management > Azure Resource Manager > [Resource Groups](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-overview#resource-groups) 
+
+> **SPEAKER NOTES**
 
 Explore the following topics:
 * Important factors to consider when defining your resource group.
 
-More resources:
+
+> **ADDITIONAL RESOURCES**
+
 * [Move resources to new resource group or subscription](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-move-resources)
 
 
@@ -42,7 +48,9 @@ Briefly explore tools to deploy and manage resource in ARM:
 | ------------- | ------------- | ------------- |------------- | ------------- |
 | ![screenshot](media/azure-portal.png "Azure Portal") | ![screenshot](media/azure-powershell.png "Azure Portal") | ![screenshot](media/azure-cli.png "Azure Portal") | ![screenshot](media/azure-restapi.png "Azure Portal") | ![screenshot](media/arm-templates.png "Azure Portal") |
 
-More resources:
+
+> **ADDITIONAL RESOURCES**
+
 * [Azure PowerShell](https://docs.microsoft.com/en-us/powershell/azure)
 * [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/overview)
 * [Azure Rest API](https://docs.microsoft.com/en-us/rest/api/)
@@ -53,7 +61,9 @@ More resources:
 
 > **SHOW** [ARM Template](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-overview#template-deployment)
 
-> *Navigation*: https://azure.com > Documentation > Products > Monitoring + Management > Azure Resource Manager > Template deployment(https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-overview#template-deployment) 
+> **NAVIGATION** https://azure.com > Documentation > Products > Monitoring + Management > Azure Resource Manager > Template deployment(https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-overview#template-deployment) 
+
+> **SPEAKER NOTES**
 
 Explore the following topics:
 * What is an ARM template
@@ -68,6 +78,7 @@ Explore the following topics:
 > **GUIDE** [Walkthrough: Azure Templates (Azure Docs and GitHub)](/iaas-fundamentals-cx/resource-manager.md#walkthrough-azure-templates-azure-docs-and-github)
 
 
-More resources:
+> **ADDITIONAL RESOURCES**
+
 * [Export an Azure Resource Manager template from existing resources](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-manager-export-template)
 
