@@ -1,4 +1,3 @@
-###### Go back to [IaaS Fundamentals](iaas-fundamentals.md#delivery-guide)
 
 # Azure Resource Manager
 
@@ -72,5 +71,3 @@ Explore the following topics:
 More resources:
 * [Export an Azure Resource Manager template from existing resources](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-manager-export-template)
 
-
-###### Go back to [IaaS Fundamentals](iaas-fundamentals.md#delivery-guide)
