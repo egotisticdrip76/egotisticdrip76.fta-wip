@@ -14,7 +14,7 @@ A way to engage with our customers and educate them without the need of custom P
 
 **Engineers** invest time in preparing and keeping up to date PowerPoint decks that will only scale to FTA customers. 
 
-**Our goal:** We can invest this time, improving the official contents that can scale to all Azure customers.
+**Our goal:** We can invest this time, improving public contents that can scale to all Azure customers.
 
 
 ## How?
