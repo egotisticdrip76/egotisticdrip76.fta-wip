@@ -10,16 +10,16 @@
 > **SPEAKER NOTES**
 
 * There are various compute options available in Azure.
-* Briefly explain different options on IaaS, PaaS or FaaS.
-* Provide examples of IaaS compute options. Examples:
-    * Virtual Machines: 
+* Briefly explain different options on **IaaS**, **PaaS** or **FaaS**.
+* Provide **examples of IaaS compute options**. Some examples:
+    * **Virtual Machines**: 
         * Are best used for application migrated to the cloud with no changes or lift and shift, as we call them. 
         Giving that you pay for the resources you actually use, you can save a lot, by scaling out your application to support peak times or growth.
-    * VMSS or Virtual Machine Scale Sets: 
+    * **VMSS** (**Virtual Machine Scale Sets**): 
         * You can use to deploy and manage a set of identical VMs that you’ll manage as a single resource.
         * With all VMs configured the same, scale sets support true autoscale, and no pre-provisioning of VMs is required.  
         * So it's easier to build large-scale services that target big compute, big data, and containerized workloads.
-    * Marketplace:
+    * **Marketplace**:
         * The Azure marketplace offers the flexibility in using the platforms, components and frameworks of your choice.
 * Refer that in this session we are going to focus on virtual machines.
 
@@ -50,7 +50,7 @@
 
 > **SPEAKER NOTES**
 
-* Earlier, we looked at a single VM architecture from a storage perspective, lets look at a VM from a Compute Perspective.
+* Earlier, we looked at a single VM architecture from a storage perspective, lets look at a VM from a compute Perspective.
 * When we think of compute, we think of cores, ram, and disks. 
 * We already talked about OS and Data disks that are stored as Managed Disks in Azure Storage and the temp disks stored on the host.
 * Now we are going to talk about the VM component.
@@ -65,7 +65,7 @@
 
 > **SPEAKER NOTES**
 
-* Explain aspects important to think about when creating VMs
+* Explain important aspects to think about when creating VMs:
     * Naming
     * Location
     * VM size
@@ -91,8 +91,8 @@
     * [Storage optimized](https://docs.microsoft.com/en-us/azure/virtual-machines/virtual-machines-windows-sizes-storage)
     * [GPU](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sizes-gpu)
     * [High performance compute](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sizes-hpc)
-* Each machine has different variety of cores, RAM, disk space HDD or SDD to choose from – additionally, depending on what instance you select will also determine the size of the temporary/local disk.
-* Some machines/sizes can handle Premium storage.  You may notice machines that have a lettered followed by S, denoting eligible use for SSD.
+* Each size option has different variety of cores, RAM, disk space HDD or SDD to choose from – additionally, depending on what instance you select will also determine the size of the temporary/local disk.
+* Some size options can handle Premium storage.  You may notice machines that have a lettered followed by S, denoting eligible use for SSD.
 * Not all VM sizes available in all regions. 
 * Explain how to compare performance across different options with [Azure Compute Units (ACU)](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/acu)
 
