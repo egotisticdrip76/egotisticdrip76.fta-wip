@@ -140,15 +140,11 @@
 
 ## Walkthrough: Create a Virtual Machine (Azure Portal)
 
-
-Follow the guide Create a Linux virtual machine with the Azure portal 
-https://docs.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-portal
-
-Show Marketplace options for both Windows and Linux, refer that you can also bring your own image/disk
-Create an Availability Set
-Choose Managed disks
-
-After the VM is created walkthrough VM manage options (Availability Set, Disks, Extensions, NIC, Size, Auto-shutdown option, etc.)
+ **GUIDE** [Create a Linux virtual machine with the Azure portal](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-portal)
+* Show **Marketplace options** for both Windows and Linux, refer that you can also bring your own image/disk
+* Create an **Availability Set**
+* Choose **Managed disks**
+* After the VM is created walkthrough **VM manage options** (Availability Set, Disks, Extensions, NIC, Size, Auto-shutdown option, etc.)
 
 
 
