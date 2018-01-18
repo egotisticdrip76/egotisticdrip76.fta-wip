@@ -46,8 +46,10 @@ IaaS Fundamentals covers the core IaaS services (ARM, storage, compute and netwo
     * **SHOW** indicates a specific page to show to the customer.
     * **NAVIGATION** indicates the path to get to the specific page.
     * **SPEAKER NOTES** references some topics to talk about when showing the specified pages/resources. 
-    * **ADDITIONAL RESOURCES**
-    * **QUIZ**
+    * **ADDITIONAL RESOURCES** references to additional resources for engineer readiness and/or to show to customer.
+    * **GUIDE** references a walkthrough to guide customer on an hands-on exercise.
+    * **QUIZ** optional questionnaire to engage with audience.
+    
 * For demos done by engineers always use [Azure Portal - public version](https://portal.azure.com/?feature.customportal=false)
 
 

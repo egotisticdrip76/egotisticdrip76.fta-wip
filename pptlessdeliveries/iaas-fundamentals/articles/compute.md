@@ -106,9 +106,9 @@
 
 > **SPEAKER NOTES**
 
-* Explain concepts of Availability Sets, Fault Domains and Update Domains.
-* Explain concepts of Managed Disk fault domains.
-* Explain concept of Availability zones. Note that is still in preview.
+* Explain concepts of **Availability Sets**, **Fault Domains** and **Update Domains**.
+* Explain concepts of **Managed Disk fault domains**.
+* Explain concept of **Availability zones**. Note that is still in preview.
 
 
 > **ADDITIONAL RESOURCES**
@@ -138,22 +138,20 @@
 
 
 
+## Walkthrough: Create a Virtual Machine (Azure Portal)
 
 
-## Walkthrough: Create a Virtual MachineAzure Portal
+Follow the guide Create a Linux virtual machine with the Azure portal 
+https://docs.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-portal
 
-Create POC VMs 
-and show management options
+Show Marketplace options for both Windows and Linux, refer that you can also bring your own image/disk
+Create an Availability Set
+Choose Managed disks
+
+After the VM is created walkthrough VM manage options (Availability Set, Disks, Extensions, NIC, Size, Auto-shutdown option, etc.)
 
 
 
-> **SHOW** []()
-
-> **NAVIGATION** https://azure.com > Documentation > 
-
-> **SPEAKER NOTES**
-
-> **ADDITIONAL RESOURCES**
 
 
 
