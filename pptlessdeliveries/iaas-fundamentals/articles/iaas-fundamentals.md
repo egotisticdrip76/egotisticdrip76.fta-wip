@@ -20,9 +20,9 @@ IaaS Fundamentals covers the core IaaS services (ARM, storage, compute and netwo
 
 
 ## Prerequisites
-* A Microsoft Azure subscription (with Contributor access)
-* Internet connection (RDP port open to external IP addresses)
-* 1 person per session with the ability to share screen over skype meeting
+* A Microsoft Azure subscription (with Contributor access).
+* Internet connection (RDP port open to external IP addresses).
+* 1 person per session with the ability to share screen over skype meeting.
 
 
 ## Sessions
@@ -37,11 +37,12 @@ IaaS Fundamentals covers the core IaaS services (ARM, storage, compute and netwo
 
 ### Prior to the delivery
 
-* Review guideline below and review/study as the resources/public documentation that should be presented to the customer
+* Review guideline below and review/study as the resources/public documentation that should be presented to the customer.
+* Share Agenda and Prerequisites with the customer.
 
 ### During the delivery
 
-* Ask customer to share their screen and follow the guidelines on the articles below
+* Ask customer to share their screen and follow the guidelines on the articles:
     * **SHOW** indicates a specific page to show to the customer.
     * **NAVIGATION** indicates the path to get to the specific page.
     * **SPEAKER NOTES** references some topics to talk about when showing the specified pages/resources. 

@@ -7,7 +7,7 @@ A way to engage with our customers and educate them without the need of custom P
 
 ## Why?
 
-**Customers** often feel bored and loose focus when they are presented with another PowerPoint deck. 
+**Customers** often loose focus when they are presented with another PowerPoint deck. 
 
 **Our hint:** When they are the ones controlling the session, it is easier to keep them engaged, and consequently they will learn more and quickly.
 
