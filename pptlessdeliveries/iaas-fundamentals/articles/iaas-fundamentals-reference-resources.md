@@ -168,6 +168,7 @@
 
 * [What are virtual machine scale sets in Azure?](https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-overview)
 
+![screenshot](https://msftstack.files.wordpress.com/2016/03/image1.png)
 
 
 ## Networking
@@ -176,8 +177,7 @@
 
 * [Azure Virtual Network](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview)
 
-* [Plan and design Azure Virtual Networks
-Virtual network traffic routing](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-vnet-plan-design-arm)
+* [Plan and design Azure Virtual Networks Virtual network traffic routing](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-vnet-plan-design-arm)
 
 * [IP address types and allocation methods in Azure](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-ip-addresses-overview-arm)
 

@@ -125,7 +125,7 @@
 
 > **SPEAKER NOTES**
 
-![screenshot](https://msftstack.files.wordpress.com/2016/03/image1.png)
+
 
 
 
