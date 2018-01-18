@@ -111,6 +111,10 @@
 * Explain concept of Availability zones. Note that is still in preview.
 
 
+> **ADDITIONAL RESOURCES**
+
+
+
 
 
 ## Virtual machine scale sets

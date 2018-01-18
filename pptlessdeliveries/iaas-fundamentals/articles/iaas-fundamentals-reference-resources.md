@@ -105,15 +105,66 @@
 
 ## Compute
 
+### Azure compute options
+
 * [Overview of Azure compute options](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-overview)
 
 * [Criteria for choosing an Azure compute option](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-comparison)
 
+
+### Virtual Machines Reference Architectures
+
+* [Azure Virtual Machines reference architectures - Windows](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/virtual-machines-windows)
+
+* [Azure Virtual Machines reference architectures - Linux](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/virtual-machines-linux)
+
+
+### Virtual Machines documentation and details
+
+* [Virtual Machines Documentation](https://docs.microsoft.com/en-us/azure/virtual-machines/)
+
+* [Virtual Machines Documentation - Windows](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/overview)
+
+* [Virtual Machines Documentation - Linux](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/overview)
+
 * [What do I need to think about before creating a VM?](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/overview#what-do-i-need-to-think-about-before-creating-a-vm)
+
+* [Sizes virtual machines in Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sizes)
+
+
+
+### Virtual Machines Availability
 
 * [Regions and availability for virtual machines in Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/regions-and-availability)
 
-* [Sizes virtual machines in Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sizes)
+#### Availability sets
+
+* An availability set is a logical grouping of VMs within a datacenter that allows Azure to understand how your application is built to provide for redundancy and availability. We recommended that two or more VMs are created within an availability set to provide for a highly available application and to meet the 99.95% Azure SLA. When a single VM is using Azure Premium Storage, the Azure SLA applies for unplanned maintenance events.
+
+* An availability set is composed of two additional groupings that protect against hardware failures and allow updates to safely be applied - fault domains (FDs) and update domains (UDs). You can read more about how to manage the availability of Linux VMs or Windows VMs.
+
+* **Fault domains** are a logical group of underlying hardware that share a common power source and network switch, similar to a rack within an on-premises datacenter. As you create VMs within an availability set, the Azure platform automatically distributes your VMs across these fault domains. This approach limits the impact of potential physical hardware failures, network outages, or power interruptions.
+
+* **Update domains** are a logical group of underlying hardware that can undergo maintenance or be rebooted at the same time. As you create VMs within an availability set, the Azure platform automatically distributes your VMs across these update domains. This approach ensures that at least one instance of your application always remains running as the Azure platform undergoes periodic maintenance. The order of update domains being rebooted may not proceed sequentially during planned maintenance, but only one update domain is rebooted at a time.
+
+![screenshot](../media/availability-sets.png)
+
+
+
+#### Availability sets & Managed Disks
+
+* For VMs using Azure Managed Disks, VMs are aligned with managed disk fault domains when using a managed availability set. This alignment ensures that all the managed disks attached to a VM are within the same managed disk fault domain. Only VMs with managed disks can be created in a managed availability set. The number of managed disk fault domains varies by region - either two or three managed disk fault domains per region. You can read more about these managed disk fault domains for Linux VMs or Windows VMs.
+
+* When combining Managed Disks and Availability Sets you end up with a Managed Availability Set.
+
+* In this case you get a better fault isolation by ensuring that the disks of VMs in an Availability Set are sufficiently isolated from each other to avoid single points of failure. 
+
+* It does this by automatically placing the disks in different storage scale units (stamps). If a stamp fails due to hardware or software failure, only the VM instances with disks on those stamps fail. 
+
+![screenshot](../media/managed-availability-set.png)
+
+
+### Virtual Machine Scale Sets (VMSS)
 
 * [What are virtual machine scale sets in Azure?](https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-overview)
 
