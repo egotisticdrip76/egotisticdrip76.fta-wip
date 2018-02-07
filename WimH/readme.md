@@ -1,2 +1,2 @@
-http://htmlpreview.github.com/?https://github.com/Azure/fta-wip/blob/master/WimH/index.htm
-https://rawgit.com/Azure/fta-wip/blob/master/WimH/index.htm
+http://htmlpreview.github.com/?https://github.com/Azure/fta-wip/master/WimH/index.htm
+https://rawgit.com/Azure/fta-wip/master/WimH/index.htm
