@@ -1,1 +1,1 @@
-http://htmlpreview.github.com/?https://github.com/Azure/fta-wip/WimH/index.htm
+http://htmlpreview.github.com/?https://github.com/Azure/fta-wip/blob/master/WimH/index.htm
